@@ -1,0 +1,16 @@
+# Xcode user-specific state (не коммитим — это личные настройки)
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+
+# DerivedData и кэши сборок
+DerivedData/
+build/
+*.xcresult
+
+# macOS
+.DS_Store
+
+# Swift Package Manager (если появится)
+.build/
+.swiftpm/
